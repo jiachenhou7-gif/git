@@ -1,0 +1,7 @@
+P2BL1：将对象批量替换为已定义的块
+QuickProfile：快捷地形剖面图生成插件（默认剖面线是从左至右）
+QuickProfile2.0：支持“从高到低”趋势投影选项
+RouteProfile：长线路标准地形剖面图生成插件
+sin1：直线转sin曲线
+sinewave：直线转sin曲线（可调整振幅、波浪数）
+xllTriangle_ARX.2021-2024.x64：网络下载剖面生成工具
