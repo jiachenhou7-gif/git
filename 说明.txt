@@ -5,3 +5,5 @@ RouteProfile：长线路标准地形剖面图生成插件
 sin1：直线转sin曲线
 sinewave：直线转sin曲线（可调整振幅、波浪数）
 xllTriangle_ARX.2021-2024.x64：网络下载剖面生成工具
+ZHUJI：将原本为分式的arcgis注记，在cad里转换为分式
+TXT2MTXT：继承原文字格式，在原坐标生成堆叠分式
